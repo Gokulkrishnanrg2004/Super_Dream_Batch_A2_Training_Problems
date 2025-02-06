@@ -1,3 +1,4 @@
+// The code is for binary Tree and not for BST
 #include<bits/stdc++.h>
 using namespace std;
 struct TreeNode
